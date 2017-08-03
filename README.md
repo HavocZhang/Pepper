@@ -18,7 +18,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 1. 打开您的编辑器，我这里使用的是Visual Studio Code
 2. 新建一个文件
 3. 复制以下代码
-
+`from naoqi import ALProxy`
+`tts = ALProxy("ALTextToSpeech","<IP of your robot>",9559)`
 Syntax highlighted code block
 
 # Header 1
