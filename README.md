@@ -1,12 +1,12 @@
-## Pepper相关应用的开发
+# Pepper相关应用的开发
 
 You can use the [editor on GitHub](https://github.com/HavocZhang/Pepper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 入门
+## 入门
 
-####下载和安装ALDebaran开发工具
+###下载和安装ALDebaran开发工具
 
 ```markdown
 Syntax highlighted code block
