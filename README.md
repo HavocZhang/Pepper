@@ -7,9 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## 入门
 
 ### 下载和安装ALDebaran开发工具
-1.确保您的NAO已经在ALDebaran Community用户账户上注册。
-2.访问ALDebaran社区网站的软件资源
-3.使用您的ALDebaran Community用户账户凭据登录显示所有可用的软件
+1. 确保您的NAO已经在ALDebaran Community用户账户上注册。
+2. 访问ALDebaran社区网站的软件资源
+3. 使用您的ALDebaran Community用户账户凭据登录显示所有可用的软件
 ### Hello word!
 ```markdown
 Syntax highlighted code block
