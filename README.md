@@ -31,6 +31,19 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## 创建应用
 
+### 舞蹈应用
+
+### 交互式应用
+
+### 故事应用
+
+### 打招呼应用
+
+### 第一次创建应用程序
+
+### 使用Pepper
+
+### 使用Naoqi框架在Choregraphe之外创建一个新的应用程序
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HavocZhang/Pepper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## 为机器人编程
@@ -38,3 +51,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ## 其他教程
+
+## Choregraphe工具
