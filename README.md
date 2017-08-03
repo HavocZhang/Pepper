@@ -12,6 +12,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3. 使用您的ALDebaran Community用户账户凭据登录显示所有可用的软件
 ### Hello word!
 ```markdown
+- 确保您有一个可以使用的机器人
+- 确保您的计算机上安装了Python和Python SDK
+
+1. 打开您的编辑器，我这里使用的是Visual Studio Code
+2. 新建一个文件
+3. 复制以下代码
+
 Syntax highlighted code block
 
 # Header 1
