@@ -18,8 +18,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. 新建一个文件
 3. 复制以下代码
 ```markdown
-`from naoqi import ALProxy`
-`tts = ALProxy("ALTextToSpeech","<IP of your robot>",9559)`
+from naoqi import ALProxy
+tts = ALProxy("ALTextToSpeech","<IP of your robot>",9559)
+tts.say("Hello,world!")
 ```
 ```markdown
 Syntax highlighted code block
