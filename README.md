@@ -26,6 +26,13 @@ tts.say("Hello,world!")
   如果您不知道您的机器人IP，请按机器人胸前的按钮
 5. 保存文件
 6. 运行
+- 结果、
+你的机器人说"Hello,world!"
+```markdown
+from naoqi import ALProxy
+tts = ALProxy("ALTextToSpeech","<IP of your robot>",9559)
+tts.say("Hello,world!")
+```
 ```markdown
 Syntax highlighted code block
 
