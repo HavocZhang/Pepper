@@ -26,12 +26,28 @@ tts.say("Hello,world!")
   如果您不知道您的机器人IP，请按机器人胸前的按钮
 5. 保存文件
 6. 运行
-- 结果、
+- 结果
 你的机器人说"Hello,world!"
+- 它如何工作
+此脚本使用ALTextToSpeech模块。ALTextToSpeech是Naoqi关于说话方面的模块。
 ```markdown
 from naoqi import ALProxy
+# 导入模块ALProxy
+```
+
+```markdown
 tts = ALProxy("ALTextToSpeech","<IP of your robot>",9559)
+# 创建一个名为tts的对象，该对象发送到Naoqi
+- tts是我们给对象实例的名称
+- ALProxy()是一类对象，允许您访问所有的模块
+- ALTextToSpeech是我们想要使用的Naoqi模块名称。
+- 还指定了机器人的IP和端口（9559）
+```
+```markdown
 tts.say("Hello,world!")
+- tts是我们使用的对象
+- say()是方法
+- "Hello Word!"是参数
 ```
 ```markdown
 Syntax highlighted code block
