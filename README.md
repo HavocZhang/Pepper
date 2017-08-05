@@ -32,12 +32,12 @@ tts.say("Hello,world!")
 此脚本使用ALTextToSpeech模块。ALTextToSpeech是Naoqi关于说话方面的模块。
 ```markdown
 from naoqi import ALProxy
-# 导入模块ALProxy
+导入模块ALProxy
 ```
 
 ```markdown
 tts = ALProxy("ALTextToSpeech","<IP of your robot>",9559)
-# 创建一个名为tts的对象，该对象发送到Naoqi
+创建一个名为tts的对象，该对象发送到Naoqi
 - tts是我们给对象实例的名称
 - ALProxy()是一类对象，允许您访问所有的模块
 - ALTextToSpeech是我们想要使用的Naoqi模块名称。
@@ -68,18 +68,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## 创建应用
-
-### 舞蹈应用
-
-### 交互式应用
-
-### 故事应用
-
-### 打招呼应用
-
-### 第一次创建应用程序
 
 ### 使用Pepper
 
