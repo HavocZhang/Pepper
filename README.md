@@ -1,6 +1,6 @@
 # Pepper相关应用的开发
 
-本教程根据ALDebaran官方文档进行完善，同时在学习的过程中的问题，进行分享
+本教程根据ALDebaran官方文档进行完善，同时在学习的过程中的问题，进行分享https://github.com/HavocZhang/Pepper/projects/1#card-4089092
 
 ## 入门
 
